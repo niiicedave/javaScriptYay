@@ -1,0 +1,29 @@
+*{
+    font-size: 1.5rem;
+}
+
+h1{
+    text-align: center;
+}
+
+label {
+    text-align: center;
+}
+
+input{
+    width: 50%;
+    text-align: center;
+}
+
+button{
+    margin: 1rem;
+    text-align: center;
+}
+
+div{
+    margin: 1rem;
+}
+
+p{
+    text-align: center;
+}
